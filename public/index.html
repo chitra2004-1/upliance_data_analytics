@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Aggregated Data Visualization</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+    <h2>Aggregated Data Visualization</h2>
+    Time Granularity:
+    <select id="granularity">
+        <option value="Daily">Daily</option>
+        <option value="Weekly" selected>Weekly</option>
+        <option value="Monthly">Monthly</option>
+    </select>
+    Data View:
+    <select id="dataView">
+        <option value="orders" selected>Orders</option>
+        <option value="sessions">Sessions</option>
+        <option value="calls">Calls</option>
+    </select>
+    <br><br>
+    <canvas id="chartCanvas" width="900" height="400"></canvas>
+    <script src="task_02.js"></script>
+</body>
+
+</html>

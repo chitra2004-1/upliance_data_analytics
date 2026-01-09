@@ -1,0 +1,1363 @@
+{
+  "Daily": {
+    "orders": {
+      "2025-12-16": {
+        "9650000000": {
+          "totalAmount": 37998,
+          "orderCount": 37998
+        }
+      },
+      "2025-12-14": {
+        "9830044556": {
+          "totalAmount": 18999,
+          "orderCount": 18999
+        }
+      },
+      "2026-01-03": {
+        "9830044556": {
+          "totalAmount": 31998,
+          "orderCount": 31998
+        }
+      },
+      "2025-12-18": {
+        "9720011223": {
+          "totalAmount": 18999,
+          "orderCount": 18999
+        }
+      },
+      "2026-01-15": {
+        "9650000000": {
+          "totalAmount": 27998,
+          "orderCount": 27998
+        }
+      },
+      "2025-12-07": {
+        "9830000000": {
+          "totalAmount": 16999,
+          "orderCount": 16999
+        }
+      },
+      "2026-01-28": {
+        "9830011223": {
+          "totalAmount": 12999,
+          "orderCount": 12999
+        }
+      },
+      "2025-12-02": {
+        "9650000000": {
+          "totalAmount": 16999,
+          "orderCount": 16999
+        },
+        "9830011223": {
+          "totalAmount": 16999,
+          "orderCount": 16999
+        },
+        "9830044556": {
+          "totalAmount": 14999,
+          "orderCount": 14999
+        }
+      },
+      "2025-12-05": {
+        "9830011223": {
+          "totalAmount": 14999,
+          "orderCount": 14999
+        },
+        "9650000000": {
+          "totalAmount": 16999,
+          "orderCount": 16999
+        }
+      },
+      "2025-12-06": {
+        "9650000000": {
+          "totalAmount": 12999,
+          "orderCount": 12999
+        }
+      },
+      "2026-01-23": {
+        "9720011223": {
+          "totalAmount": 18999,
+          "orderCount": 18999
+        }
+      },
+      "2026-01-30": {
+        "9720011223": {
+          "totalAmount": 12999,
+          "orderCount": 12999
+        }
+      },
+      "2026-01-14": {
+        "9720011223": {
+          "totalAmount": 50997,
+          "orderCount": 50997
+        }
+      },
+      "2025-12-23": {
+        "9830044556": {
+          "totalAmount": 16999,
+          "orderCount": 16999
+        }
+      },
+      "2025-12-09": {
+        "9830011223": {
+          "totalAmount": 14999,
+          "orderCount": 14999
+        }
+      },
+      "2025-12-26": {
+        "9830044556": {
+          "totalAmount": 16999,
+          "orderCount": 16999
+        }
+      },
+      "2025-12-01": {
+        "9830000000": {
+          "totalAmount": 12999,
+          "orderCount": 12999
+        },
+        "9830011223": {
+          "totalAmount": 14999,
+          "orderCount": 14999
+        }
+      },
+      "2025-12-03": {
+        "9830011223": {
+          "totalAmount": 29998,
+          "orderCount": 29998
+        },
+        "9830000000": {
+          "totalAmount": 14999,
+          "orderCount": 14999
+        },
+        "9650000000": {
+          "totalAmount": 14999,
+          "orderCount": 14999
+        }
+      },
+      "2025-12-25": {
+        "9830044556": {
+          "totalAmount": 18999,
+          "orderCount": 18999
+        },
+        "9830000000": {
+          "totalAmount": 12999,
+          "orderCount": 12999
+        }
+      },
+      "2026-01-04": {
+        "9720011223": {
+          "totalAmount": 12999,
+          "orderCount": 12999
+        },
+        "9830000000": {
+          "totalAmount": 14999,
+          "orderCount": 14999
+        }
+      },
+      "2026-01-05": {
+        "9830044556": {
+          "totalAmount": 12999,
+          "orderCount": 12999
+        }
+      },
+      "2025-12-29": {
+        "9830011223": {
+          "totalAmount": 12999,
+          "orderCount": 12999
+        },
+        "9720011223": {
+          "totalAmount": 16999,
+          "orderCount": 16999
+        }
+      },
+      "2026-01-11": {
+        "9830044556": {
+          "totalAmount": 18999,
+          "orderCount": 18999
+        },
+        "9830000000": {
+          "totalAmount": 14999,
+          "orderCount": 14999
+        }
+      },
+      "2026-01-06": {
+        "9830000000": {
+          "totalAmount": 14999,
+          "orderCount": 14999
+        }
+      },
+      "2026-01-02": {
+        "9720011223": {
+          "totalAmount": 18999,
+          "orderCount": 18999
+        }
+      },
+      "2026-01-20": {
+        "9650000000": {
+          "totalAmount": 16999,
+          "orderCount": 16999
+        },
+        "9830000000": {
+          "totalAmount": 12999,
+          "orderCount": 12999
+        }
+      },
+      "2026-01-10": {
+        "9830044556": {
+          "totalAmount": 18999,
+          "orderCount": 18999
+        }
+      },
+      "2026-01-13": {
+        "9720011223": {
+          "totalAmount": 18999,
+          "orderCount": 18999
+        },
+        "9830011223": {
+          "totalAmount": 18999,
+          "orderCount": 18999
+        }
+      },
+      "2026-01-31": {
+        "9830011223": {
+          "totalAmount": 14999,
+          "orderCount": 14999
+        }
+      },
+      "2026-01-17": {
+        "9830044556": {
+          "totalAmount": 14999,
+          "orderCount": 14999
+        }
+      },
+      "2026-01-19": {
+        "9720011223": {
+          "totalAmount": 16999,
+          "orderCount": 16999
+        }
+      },
+      "2026-01-29": {
+        "9830000000": {
+          "totalAmount": 12999,
+          "orderCount": 12999
+        }
+      },
+      "2025-12-24": {
+        "9830000000": {
+          "totalAmount": 16999,
+          "orderCount": 16999
+        }
+      },
+      "2026-01-24": {
+        "9830044556": {
+          "totalAmount": 12999,
+          "orderCount": 12999
+        }
+      },
+      "2025-12-28": {
+        "9830044556": {
+          "totalAmount": 12999,
+          "orderCount": 12999
+        }
+      },
+      "2026-01-16": {
+        "9830011223": {
+          "totalAmount": 16999,
+          "orderCount": 16999
+        }
+      },
+      "2025-12-17": {
+        "9720011223": {
+          "totalAmount": 27998,
+          "orderCount": 27998
+        }
+      },
+      "2025-12-15": {
+        "9830044556": {
+          "totalAmount": 12999,
+          "orderCount": 12999
+        },
+        "9830011223": {
+          "totalAmount": 12999,
+          "orderCount": 12999
+        }
+      },
+      "2025-12-31": {
+        "9830000000": {
+          "totalAmount": 14999,
+          "orderCount": 14999
+        },
+        "9720011223": {
+          "totalAmount": 16999,
+          "orderCount": 16999
+        }
+      }
+    },
+    "sessions": {
+      "2026-01-12": {
+        "DEV003": {
+          "totalSeverity": 22501.8,
+          "sessionsCount": 22501.8
+        },
+        "DEV006": {
+          "totalSeverity": 33803.47,
+          "sessionsCount": 33803.47
+        },
+        "DEV005": {
+          "totalSeverity": 31284.52,
+          "sessionsCount": 31284.52
+        }
+      },
+      "2025-12-08": {
+        "DEV003": {
+          "totalSeverity": 66933.93000000001,
+          "sessionsCount": 66933.93000000001
+        },
+        "DEV006": {
+          "totalSeverity": 23570.36,
+          "sessionsCount": 23570.36
+        }
+      },
+      "2025-12-12": {
+        "DEV003": {
+          "totalSeverity": 21132.92,
+          "sessionsCount": 21132.92
+        },
+        "DEV001": {
+          "totalSeverity": 37581.33,
+          "sessionsCount": 37581.33
+        }
+      },
+      "2026-01-10": {
+        "DEV004": {
+          "totalSeverity": 54591.71000000001,
+          "sessionsCount": 54591.71000000001
+        },
+        "DEV005": {
+          "totalSeverity": 24861.72,
+          "sessionsCount": 24861.72
+        }
+      },
+      "2026-01-23": {
+        "DEV004": {
+          "totalSeverity": 12942.69,
+          "sessionsCount": 12942.69
+        },
+        "DEV005": {
+          "totalSeverity": 45401.020000000004,
+          "sessionsCount": 45401.020000000004
+        }
+      },
+      "2026-01-20": {
+        "DEV003": {
+          "totalSeverity": 24812.89,
+          "sessionsCount": 24812.89
+        }
+      },
+      "2025-12-17": {
+        "DEV002": {
+          "totalSeverity": 54651.759999999995,
+          "sessionsCount": 54651.759999999995
+        }
+      },
+      "2026-01-02": {
+        "DEV001": {
+          "totalSeverity": 28356.89,
+          "sessionsCount": 28356.89
+        },
+        "DEV002": {
+          "totalSeverity": 35724.16,
+          "sessionsCount": 35724.16
+        }
+      },
+      "2026-01-03": {
+        "DEV002": {
+          "totalSeverity": 18056.28,
+          "sessionsCount": 18056.28
+        }
+      },
+      "2025-12-10": {
+        "DEV003": {
+          "totalSeverity": 50324.28,
+          "sessionsCount": 50324.28
+        },
+        "DEV006": {
+          "totalSeverity": 39262.619999999995,
+          "sessionsCount": 39262.619999999995
+        }
+      },
+      "2025-12-19": {
+        "DEV002": {
+          "totalSeverity": 32729.89,
+          "sessionsCount": 32729.89
+        }
+      },
+      "2025-12-18": {
+        "DEV001": {
+          "totalSeverity": 30358.97,
+          "sessionsCount": 30358.97
+        }
+      },
+      "2025-12-03": {
+        "DEV005": {
+          "totalSeverity": 19992.15,
+          "sessionsCount": 19992.15
+        },
+        "DEV002": {
+          "totalSeverity": 23190.36,
+          "sessionsCount": 23190.36
+        }
+      },
+      "2025-12-26": {
+        "DEV004": {
+          "totalSeverity": 37390.63,
+          "sessionsCount": 37390.63
+        },
+        "DEV002": {
+          "totalSeverity": 31466.04,
+          "sessionsCount": 31466.04
+        }
+      },
+      "2025-12-30": {
+        "DEV004": {
+          "totalSeverity": 37421.49,
+          "sessionsCount": 37421.49
+        },
+        "DEV003": {
+          "totalSeverity": 20777.93,
+          "sessionsCount": 20777.93
+        }
+      },
+      "2026-01-13": {
+        "DEV002": {
+          "totalSeverity": 24935.78,
+          "sessionsCount": 24935.78
+        },
+        "DEV005": {
+          "totalSeverity": 62457.56,
+          "sessionsCount": 62457.56
+        }
+      },
+      "2025-12-29": {
+        "DEV005": {
+          "totalSeverity": 21022.35,
+          "sessionsCount": 21022.35
+        }
+      },
+      "2025-12-16": {
+        "DEV003": {
+          "totalSeverity": 46423.26,
+          "sessionsCount": 46423.26
+        }
+      },
+      "2025-12-05": {
+        "DEV002": {
+          "totalSeverity": 32477.09,
+          "sessionsCount": 32477.09
+        }
+      },
+      "2026-01-28": {
+        "DEV006": {
+          "totalSeverity": 23171.31,
+          "sessionsCount": 23171.31
+        },
+        "DEV005": {
+          "totalSeverity": 34119.4,
+          "sessionsCount": 34119.4
+        }
+      },
+      "2026-01-24": {
+        "DEV002": {
+          "totalSeverity": 73266.09,
+          "sessionsCount": 73266.09
+        }
+      },
+      "2025-12-25": {
+        "DEV005": {
+          "totalSeverity": 29969.4,
+          "sessionsCount": 29969.4
+        },
+        "DEV001": {
+          "totalSeverity": 25370.55,
+          "sessionsCount": 25370.55
+        }
+      },
+      "2026-01-07": {
+        "DEV005": {
+          "totalSeverity": 36723.33,
+          "sessionsCount": 36723.33
+        },
+        "DEV006": {
+          "totalSeverity": 18768.74,
+          "sessionsCount": 18768.74
+        }
+      },
+      "2025-12-14": {
+        "DEV006": {
+          "totalSeverity": 23350.47,
+          "sessionsCount": 23350.47
+        }
+      },
+      "2026-01-01": {
+        "DEV005": {
+          "totalSeverity": 27082.79,
+          "sessionsCount": 27082.79
+        },
+        "DEV001": {
+          "totalSeverity": 31934.41,
+          "sessionsCount": 31934.41
+        }
+      },
+      "2025-12-06": {
+        "DEV005": {
+          "totalSeverity": 16722.27,
+          "sessionsCount": 16722.27
+        }
+      },
+      "2025-12-21": {
+        "DEV003": {
+          "totalSeverity": 13242.7,
+          "sessionsCount": 13242.7
+        }
+      },
+      "2026-01-06": {
+        "DEV006": {
+          "totalSeverity": 12843.99,
+          "sessionsCount": 12843.99
+        },
+        "DEV002": {
+          "totalSeverity": 19743.78,
+          "sessionsCount": 19743.78
+        }
+      },
+      "2025-12-02": {
+        "DEV003": {
+          "totalSeverity": 35068.27,
+          "sessionsCount": 35068.27
+        }
+      },
+      "2025-12-31": {
+        "DEV005": {
+          "totalSeverity": 35803.8,
+          "sessionsCount": 35803.8
+        }
+      },
+      "2026-01-09": {
+        "DEV005": {
+          "totalSeverity": 62227.97,
+          "sessionsCount": 62227.97
+        },
+        "DEV001": {
+          "totalSeverity": 33035.03,
+          "sessionsCount": 33035.03
+        }
+      },
+      "2026-01-18": {
+        "DEV005": {
+          "totalSeverity": 50649.09999999999,
+          "sessionsCount": 50649.09999999999
+        }
+      },
+      "2026-01-31": {
+        "DEV001": {
+          "totalSeverity": 36918.92,
+          "sessionsCount": 36918.92
+        },
+        "DEV002": {
+          "totalSeverity": 16518.85,
+          "sessionsCount": 16518.85
+        }
+      },
+      "2026-01-22": {
+        "DEV004": {
+          "totalSeverity": 30545.29,
+          "sessionsCount": 30545.29
+        },
+        "DEV001": {
+          "totalSeverity": 37567.92,
+          "sessionsCount": 37567.92
+        }
+      },
+      "2026-01-30": {
+        "DEV006": {
+          "totalSeverity": 25611.04,
+          "sessionsCount": 25611.04
+        }
+      },
+      "2026-01-26": {
+        "DEV006": {
+          "totalSeverity": 25641.02,
+          "sessionsCount": 25641.02
+        },
+        "DEV002": {
+          "totalSeverity": 20282.12,
+          "sessionsCount": 20282.12
+        }
+      },
+      "2025-12-24": {
+        "DEV001": {
+          "totalSeverity": 31478.15,
+          "sessionsCount": 31478.15
+        }
+      },
+      "2025-12-09": {
+        "DEV006": {
+          "totalSeverity": 22024.97,
+          "sessionsCount": 22024.97
+        }
+      }
+    },
+    "calls": {
+      "2025-12-27": {
+        "9830011223": {
+          "totalCalls": 60
+        }
+      },
+      "2025-12-22": {
+        "9830011223": {
+          "totalCalls": 240
+        },
+        "9650011223": {
+          "totalCalls": 180
+        }
+      },
+      "2026-01-05": {
+        "9830044556": {
+          "totalCalls": 120
+        },
+        "9830011223": {
+          "totalCalls": 180
+        }
+      },
+      "2025-12-10": {
+        "9650011223": {
+          "totalCalls": 180
+        },
+        "9830011223": {
+          "totalCalls": 18
+        }
+      },
+      "2026-01-13": {
+        "9650011223": {
+          "totalCalls": 25
+        },
+        "9720011223": {
+          "totalCalls": 18
+        }
+      },
+      "2025-12-13": {
+        "9830011223": {
+          "totalCalls": 60
+        },
+        "9650011223": {
+          "totalCalls": 180
+        }
+      },
+      "2026-01-29": {
+        "9650011223": {
+          "totalCalls": 25
+        }
+      },
+      "2026-01-26": {
+        "9830011223": {
+          "totalCalls": 205
+        },
+        "9720011223": {
+          "totalCalls": 420
+        },
+        "9650011223": {
+          "totalCalls": 180
+        }
+      },
+      "2026-01-12": {
+        "9830011223": {
+          "totalCalls": 120
+        },
+        "9720011223": {
+          "totalCalls": 25
+        }
+      },
+      "2026-01-25": {
+        "9830044556": {
+          "totalCalls": 180
+        },
+        "9650011223": {
+          "totalCalls": 120
+        }
+      },
+      "2026-01-02": {
+        "9830011223": {
+          "totalCalls": 25
+        }
+      },
+      "2025-12-08": {
+        "9830044556": {
+          "totalCalls": 25
+        },
+        "9720011223": {
+          "totalCalls": 180
+        }
+      },
+      "2026-01-22": {
+        "9720011223": {
+          "totalCalls": 180
+        }
+      },
+      "2026-01-14": {
+        "9830044556": {
+          "totalCalls": 120
+        },
+        "9720011223": {
+          "totalCalls": 420
+        }
+      },
+      "2025-12-14": {
+        "9650011223": {
+          "totalCalls": 540
+        }
+      },
+      "2025-12-25": {
+        "9650011223": {
+          "totalCalls": 60
+        }
+      },
+      "2026-01-30": {
+        "9830044556": {
+          "totalCalls": 138
+        }
+      },
+      "2025-12-12": {
+        "9830044556": {
+          "totalCalls": 18
+        }
+      },
+      "2025-12-09": {
+        "9720011223": {
+          "totalCalls": 420
+        },
+        "9650011223": {
+          "totalCalls": 480
+        }
+      },
+      "2026-01-09": {
+        "9650011223": {
+          "totalCalls": 480
+        }
+      },
+      "2025-12-05": {
+        "9830044556": {
+          "totalCalls": 50
+        }
+      },
+      "2025-12-24": {
+        "9830011223": {
+          "totalCalls": 18
+        }
+      },
+      "2026-01-19": {
+        "9830011223": {
+          "totalCalls": 420
+        }
+      },
+      "2026-01-03": {
+        "9830011223": {
+          "totalCalls": 420
+        }
+      },
+      "2026-01-01": {
+        "9650011223": {
+          "totalCalls": 60
+        }
+      },
+      "2025-12-04": {
+        "9830044556": {
+          "totalCalls": 18
+        }
+      },
+      "2025-12-17": {
+        "9830011223": {
+          "totalCalls": 420
+        }
+      },
+      "2026-01-17": {
+        "9720011223": {
+          "totalCalls": 18
+        }
+      },
+      "2025-12-29": {
+        "9830011223": {
+          "totalCalls": 25
+        }
+      },
+      "2025-12-18": {
+        "9720011223": {
+          "totalCalls": 25
+        }
+      },
+      "2026-01-24": {
+        "9650011223": {
+          "totalCalls": 18
+        }
+      },
+      "2026-01-20": {
+        "9830011223": {
+          "totalCalls": 25
+        }
+      },
+      "2026-01-08": {
+        "9650011223": {
+          "totalCalls": 60
+        }
+      },
+      "2025-12-20": {
+        "9830044556": {
+          "totalCalls": 18
+        }
+      },
+      "2025-12-31": {
+        "9650011223": {
+          "totalCalls": 420
+        }
+      },
+      "2026-01-28": {
+        "9830044556": {
+          "totalCalls": 420
+        }
+      }
+    }
+  },
+  "Weekly": {
+    "orders": {
+      "2025-51": {
+        "9650000000": {
+          "totalAmount": 37998,
+          "orderCount": 37998
+        },
+        "9720011223": {
+          "totalAmount": 46997,
+          "orderCount": 46997
+        },
+        "9830044556": {
+          "totalAmount": 12999,
+          "orderCount": 12999
+        },
+        "9830011223": {
+          "totalAmount": 12999,
+          "orderCount": 12999
+        }
+      },
+      "2025-50": {
+        "9830044556": {
+          "totalAmount": 18999,
+          "orderCount": 18999
+        },
+        "9830011223": {
+          "totalAmount": 14999,
+          "orderCount": 14999
+        }
+      },
+      "2026-01": {
+        "9830044556": {
+          "totalAmount": 31998,
+          "orderCount": 31998
+        },
+        "9720011223": {
+          "totalAmount": 65996,
+          "orderCount": 65996
+        },
+        "9830000000": {
+          "totalAmount": 29998,
+          "orderCount": 29998
+        },
+        "9830011223": {
+          "totalAmount": 12999,
+          "orderCount": 12999
+        }
+      },
+      "2026-03": {
+        "9650000000": {
+          "totalAmount": 27998,
+          "orderCount": 27998
+        },
+        "9720011223": {
+          "totalAmount": 69996,
+          "orderCount": 69996
+        },
+        "9830044556": {
+          "totalAmount": 14999,
+          "orderCount": 14999
+        },
+        "9830011223": {
+          "totalAmount": 35998,
+          "orderCount": 35998
+        }
+      },
+      "2025-49": {
+        "9830000000": {
+          "totalAmount": 44997,
+          "orderCount": 44997
+        },
+        "9650000000": {
+          "totalAmount": 61996,
+          "orderCount": 61996
+        },
+        "9830011223": {
+          "totalAmount": 76995,
+          "orderCount": 76995
+        },
+        "9830044556": {
+          "totalAmount": 14999,
+          "orderCount": 14999
+        }
+      },
+      "2026-05": {
+        "9830011223": {
+          "totalAmount": 27998,
+          "orderCount": 27998
+        },
+        "9720011223": {
+          "totalAmount": 12999,
+          "orderCount": 12999
+        },
+        "9830000000": {
+          "totalAmount": 12999,
+          "orderCount": 12999
+        }
+      },
+      "2026-04": {
+        "9720011223": {
+          "totalAmount": 35998,
+          "orderCount": 35998
+        },
+        "9650000000": {
+          "totalAmount": 16999,
+          "orderCount": 16999
+        },
+        "9830044556": {
+          "totalAmount": 12999,
+          "orderCount": 12999
+        },
+        "9830000000": {
+          "totalAmount": 12999,
+          "orderCount": 12999
+        }
+      },
+      "2025-52": {
+        "9830044556": {
+          "totalAmount": 65996,
+          "orderCount": 65996
+        },
+        "9830000000": {
+          "totalAmount": 29998,
+          "orderCount": 29998
+        }
+      },
+      "2026-02": {
+        "9830044556": {
+          "totalAmount": 50997,
+          "orderCount": 50997
+        },
+        "9830000000": {
+          "totalAmount": 29998,
+          "orderCount": 29998
+        }
+      }
+    },
+    "sessions": {
+      "2026-03": {
+        "DEV003": {
+          "totalSeverity": 22501.8,
+          "sessionsCount": 22501.8
+        },
+        "DEV006": {
+          "totalSeverity": 33803.47,
+          "sessionsCount": 33803.47
+        },
+        "DEV002": {
+          "totalSeverity": 24935.78,
+          "sessionsCount": 24935.78
+        },
+        "DEV005": {
+          "totalSeverity": 144391.18,
+          "sessionsCount": 144391.18
+        }
+      },
+      "2025-50": {
+        "DEV003": {
+          "totalSeverity": 138391.13,
+          "sessionsCount": 138391.13
+        },
+        "DEV006": {
+          "totalSeverity": 108208.42,
+          "sessionsCount": 108208.42
+        },
+        "DEV001": {
+          "totalSeverity": 37581.33,
+          "sessionsCount": 37581.33
+        }
+      },
+      "2026-02": {
+        "DEV004": {
+          "totalSeverity": 54591.71000000001,
+          "sessionsCount": 54591.71000000001
+        },
+        "DEV005": {
+          "totalSeverity": 123813.02,
+          "sessionsCount": 123813.02
+        },
+        "DEV006": {
+          "totalSeverity": 31612.730000000003,
+          "sessionsCount": 31612.730000000003
+        },
+        "DEV002": {
+          "totalSeverity": 19743.78,
+          "sessionsCount": 19743.78
+        },
+        "DEV001": {
+          "totalSeverity": 33035.03,
+          "sessionsCount": 33035.03
+        }
+      },
+      "2026-04": {
+        "DEV004": {
+          "totalSeverity": 43487.98,
+          "sessionsCount": 43487.98
+        },
+        "DEV003": {
+          "totalSeverity": 24812.89,
+          "sessionsCount": 24812.89
+        },
+        "DEV005": {
+          "totalSeverity": 45401.020000000004,
+          "sessionsCount": 45401.020000000004
+        },
+        "DEV002": {
+          "totalSeverity": 73266.09,
+          "sessionsCount": 73266.09
+        },
+        "DEV001": {
+          "totalSeverity": 37567.92,
+          "sessionsCount": 37567.92
+        }
+      },
+      "2025-51": {
+        "DEV002": {
+          "totalSeverity": 87381.65,
+          "sessionsCount": 87381.65
+        },
+        "DEV001": {
+          "totalSeverity": 30358.97,
+          "sessionsCount": 30358.97
+        },
+        "DEV003": {
+          "totalSeverity": 59665.96,
+          "sessionsCount": 59665.96
+        }
+      },
+      "2026-01": {
+        "DEV001": {
+          "totalSeverity": 60291.3,
+          "sessionsCount": 60291.3
+        },
+        "DEV002": {
+          "totalSeverity": 53780.44,
+          "sessionsCount": 53780.44
+        },
+        "DEV004": {
+          "totalSeverity": 37421.49,
+          "sessionsCount": 37421.49
+        },
+        "DEV005": {
+          "totalSeverity": 83908.94,
+          "sessionsCount": 83908.94
+        },
+        "DEV003": {
+          "totalSeverity": 20777.93,
+          "sessionsCount": 20777.93
+        }
+      },
+      "2025-49": {
+        "DEV005": {
+          "totalSeverity": 36714.42,
+          "sessionsCount": 36714.42
+        },
+        "DEV002": {
+          "totalSeverity": 55667.45,
+          "sessionsCount": 55667.45
+        },
+        "DEV003": {
+          "totalSeverity": 35068.27,
+          "sessionsCount": 35068.27
+        }
+      },
+      "2025-52": {
+        "DEV004": {
+          "totalSeverity": 37390.63,
+          "sessionsCount": 37390.63
+        },
+        "DEV005": {
+          "totalSeverity": 29969.4,
+          "sessionsCount": 29969.4
+        },
+        "DEV001": {
+          "totalSeverity": 56848.7,
+          "sessionsCount": 56848.7
+        },
+        "DEV002": {
+          "totalSeverity": 31466.04,
+          "sessionsCount": 31466.04
+        }
+      },
+      "2026-05": {
+        "DEV006": {
+          "totalSeverity": 74423.37000000001,
+          "sessionsCount": 74423.37000000001
+        },
+        "DEV005": {
+          "totalSeverity": 34119.4,
+          "sessionsCount": 34119.4
+        },
+        "DEV001": {
+          "totalSeverity": 36918.92,
+          "sessionsCount": 36918.92
+        },
+        "DEV002": {
+          "totalSeverity": 36800.97,
+          "sessionsCount": 36800.97
+        }
+      }
+    },
+    "calls": {
+      "2025-52": {
+        "9830011223": {
+          "totalCalls": 318
+        },
+        "9650011223": {
+          "totalCalls": 240
+        }
+      },
+      "2026-02": {
+        "9830044556": {
+          "totalCalls": 120
+        },
+        "9830011223": {
+          "totalCalls": 180
+        },
+        "9650011223": {
+          "totalCalls": 540
+        }
+      },
+      "2025-50": {
+        "9650011223": {
+          "totalCalls": 1380
+        },
+        "9830011223": {
+          "totalCalls": 78
+        },
+        "9830044556": {
+          "totalCalls": 43
+        },
+        "9720011223": {
+          "totalCalls": 600
+        }
+      },
+      "2026-03": {
+        "9650011223": {
+          "totalCalls": 25
+        },
+        "9830011223": {
+          "totalCalls": 120
+        },
+        "9720011223": {
+          "totalCalls": 481
+        },
+        "9830044556": {
+          "totalCalls": 120
+        }
+      },
+      "2026-05": {
+        "9650011223": {
+          "totalCalls": 205
+        },
+        "9830011223": {
+          "totalCalls": 205
+        },
+        "9830044556": {
+          "totalCalls": 558
+        },
+        "9720011223": {
+          "totalCalls": 420
+        }
+      },
+      "2026-04": {
+        "9830044556": {
+          "totalCalls": 180
+        },
+        "9720011223": {
+          "totalCalls": 180
+        },
+        "9830011223": {
+          "totalCalls": 445
+        },
+        "9650011223": {
+          "totalCalls": 138
+        }
+      },
+      "2026-01": {
+        "9830011223": {
+          "totalCalls": 470
+        },
+        "9650011223": {
+          "totalCalls": 480
+        }
+      },
+      "2025-49": {
+        "9830044556": {
+          "totalCalls": 68
+        }
+      },
+      "2025-51": {
+        "9830011223": {
+          "totalCalls": 420
+        },
+        "9720011223": {
+          "totalCalls": 25
+        },
+        "9830044556": {
+          "totalCalls": 18
+        }
+      }
+    }
+  },
+  "Monthly": {
+    "orders": {
+      "2025-12": {
+        "9650000000": {
+          "totalAmount": 99994,
+          "orderCount": 99994
+        },
+        "9830044556": {
+          "totalAmount": 112993,
+          "orderCount": 112993
+        },
+        "9720011223": {
+          "totalAmount": 80995,
+          "orderCount": 80995
+        },
+        "9830000000": {
+          "totalAmount": 89994,
+          "orderCount": 89994
+        },
+        "9830011223": {
+          "totalAmount": 117992,
+          "orderCount": 117992
+        }
+      },
+      "2026-01": {
+        "9830044556": {
+          "totalAmount": 110993,
+          "orderCount": 110993
+        },
+        "9650000000": {
+          "totalAmount": 44997,
+          "orderCount": 44997
+        },
+        "9830011223": {
+          "totalAmount": 63996,
+          "orderCount": 63996
+        },
+        "9720011223": {
+          "totalAmount": 150991,
+          "orderCount": 150991
+        },
+        "9830000000": {
+          "totalAmount": 70995,
+          "orderCount": 70995
+        }
+      }
+    },
+    "sessions": {
+      "2026-01": {
+        "DEV003": {
+          "totalSeverity": 47314.69,
+          "sessionsCount": 47314.69
+        },
+        "DEV004": {
+          "totalSeverity": 98079.69,
+          "sessionsCount": 98079.69
+        },
+        "DEV005": {
+          "totalSeverity": 374807.4100000001,
+          "sessionsCount": 374807.4100000001
+        },
+        "DEV001": {
+          "totalSeverity": 167813.17,
+          "sessionsCount": 167813.17
+        },
+        "DEV002": {
+          "totalSeverity": 208527.06,
+          "sessionsCount": 208527.06
+        },
+        "DEV006": {
+          "totalSeverity": 139839.57,
+          "sessionsCount": 139839.57
+        }
+      },
+      "2025-12": {
+        "DEV003": {
+          "totalSeverity": 253903.29,
+          "sessionsCount": 253903.29
+        },
+        "DEV002": {
+          "totalSeverity": 174515.13999999998,
+          "sessionsCount": 174515.13999999998
+        },
+        "DEV006": {
+          "totalSeverity": 108208.42,
+          "sessionsCount": 108208.42
+        },
+        "DEV001": {
+          "totalSeverity": 124789,
+          "sessionsCount": 124789
+        },
+        "DEV005": {
+          "totalSeverity": 123509.97,
+          "sessionsCount": 123509.97
+        },
+        "DEV004": {
+          "totalSeverity": 74812.12,
+          "sessionsCount": 74812.12
+        }
+      }
+    },
+    "calls": {
+      "2025-12": {
+        "9830011223": {
+          "totalCalls": 841
+        },
+        "9650011223": {
+          "totalCalls": 2040
+        },
+        "9830044556": {
+          "totalCalls": 129
+        },
+        "9720011223": {
+          "totalCalls": 625
+        }
+      },
+      "2026-01": {
+        "9830044556": {
+          "totalCalls": 978
+        },
+        "9650011223": {
+          "totalCalls": 968
+        },
+        "9830011223": {
+          "totalCalls": 1395
+        },
+        "9720011223": {
+          "totalCalls": 1081
+        }
+      }
+    }
+  }
+}
