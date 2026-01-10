@@ -77,6 +77,8 @@ granularities.forEach(gran => {
 });
 
 const outputDir = path.join(__dirname, '../public');
+//Now the path is changed to root directory due to github requirement during push 
+
 if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir);
 
 const outputPath = path.join(outputDir, 'data.json');
